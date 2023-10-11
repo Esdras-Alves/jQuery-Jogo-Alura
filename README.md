@@ -11,7 +11,7 @@ Projeto desenvolvido no curso da alura: jQuery, domine a biblioteca mais popular
     <li>jQuery</li>
 </ul>
 
-[Clique aqui](https://esdras-alves.github.io/jQuery-Jogo-Alura/) para conferir o resultado da landing page criada!
+[Clique aqui](https://esdras-alves.github.io/jQuery-Jogo-Alura/) para conferir o resultado do projeto criado!
 
 <h2> 🤝 Contribuindo </h2>
 
